@@ -10,7 +10,7 @@ c. side (d1,d2) must be run across only if are run across (e1,e2) adn (f1,f2);
 d. if (g1,g2), (h1,h2) and (i1,i2) sides are run across, there's a cost penality by l.  
 
 #it  
-I Trovare la soluzione ottima per il Problema del Commesso Viaggiatore su G, riportando il valore della funzione obiettivo e il ciclo ottimo individuato.  
+Trovare la soluzione ottima per il Problema del Commesso Viaggiatore su G, riportando il valore della funzione obiettivo e il ciclo ottimo individuato.  
 II Implementare una metodologia per verificare la presenza di un ulteriore ciclo ottimo di costo equivalente a quello riportato al punto I. Riportare quindi il ciclo trovato.  
 III Apportare le opportune modifiche al modello utilizzato al punto I per includere le seguenti restrizioni:  
 a. il costo dei lati incidenti al vertice v sia al massimo il a% del costo totale del ciclo;  
